@@ -1,4 +1,3 @@
-# incubyte-tdd-assignment
 # String Calculator - TDD Kata
 
 ## Overview
